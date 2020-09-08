@@ -4,7 +4,7 @@ Provide a Magisk zip to Disable your all modules when you can`t boot your phone 
 ## How to Use it 
 1. make sure that you have a phone which can boot normal. so you can use Magisk Manager patch a boot.img in your phone. 
 2. open latest Magisk Manager setting and click the Update Channel-Custom Channel, fill in the link below. 
-    ```` https://raw.githubusercontent.com/Oosl/Magisk_Disable_ALL_Modules/master/debug.json ````
+    ```` https://raw.githubusercontent.com/Oosl/Magisk_Disable_ALL_Modules/master/disable.json ````
 3. go back and click install Magisk, chose NEXT to skip first Option, second Method chose the `Select and Patch a File` option.
 4. flash Magisk_patched.img that you get by fastboot.
 
