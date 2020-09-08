@@ -6,9 +6,9 @@
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
   },
   "magisk": {
-    "version": "6c8fe465",
-    "versionCode": "20420",
-    "link": "https://github.com/Oosl/Magisk_Disable_ALL_Modules/releases/download/6c8fe465(20420)/magisk-debug.zip",
+    "version": "11f254e5",
+    "versionCode": "20424-disadble",
+    "link": "https://github.com/Oosl/Magisk_Disable_ALL_Modules/releases/download/11f254e5(20424)/magisk-debug.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
     "md5": "85984518d5cd413b118132818f999b0d"
   },
